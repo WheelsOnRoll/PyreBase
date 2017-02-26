@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "worapp-8bba7",
+  "private_key_id": "d17aedfc4f85980f41ca34ab3c597b9e124e773c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2ngUzxZiguyz2\n4vEqB3lZWQzaoXRtHnxnlYv7jk/mYDAHm74/o94VBRm90NcG+jP6/+pmIeWTJbAR\n3hO/5y4bNdmGLHinAFLwStGcFe0DCFmHODv1kEz7xhbqQApXp7QHTsNqm08GvVBA\nXUJUYcJ9GUmkjuJ3MSQW6ELfdzUpUX7SthZJ/eNgrvMeDuZ0VbRF7p+egX8yJTUv\n/U79kpuKgSjUKHnhVhmmABQzs/RPtTJlpc38/tNG87BPuP1w/pQl6Hl47WepCZUH\nX9wh7x5Vf1ZKfAotn+2MUcJCvnspxnGIVtQpGYgLdTLUB6h5RhjeQFkkJzDA02/I\ngiCxOo1bAgMBAAECggEAOVcQxxrKO93J1pOXqdzC650cfiGoDwM9iMDaPViIGgwl\nyJ3MdOsdNnhthr5mZhh17eAhV4RZM4Tn7hRPGziZr42PCaQ5Fibx4+V6P4pa61LZ\n2a18ljSDF6MxWshU9wT/cDP5BCZUAAe9hRhDVX+EtAcWqob68PYLIO444TXrCVe2\n+/pWZg4yePeIUWWgdB7PN/UrEIeup1ZvK3k5VXoeRSl3ePR7ya640Xmn2hXTPyWE\ngKBwF/7B95kzCHI4H54GVg61NhSCfhTzEA2Def3f8IhhQnywdN8EyVHyxuh4Cye1\nrBRDGHu9E+nlqNvdu9IpBtQAnU36cSAlvDuRbBQH0QKBgQDvqZdyJCYzUV9GK00i\nyW7l/V4KZACEaZPnUXSZd6Bxed6/LftBlL24IKxy0WQEODmUAVtwovZ333iBT2IW\nHRgBrWZLmiJ9UVylDvOHTQltjNqSDyOCyg/8hQ2JHvQSwjg8qHPpc4pfw0ClhjWN\nYK9Z6dWln1+l2U/lnGMJKHNuVwKBgQDDEOtB41puNdoMIZVg6xQlp+D8Q6aVurIE\nLE6TwEYQ5Pi93alkNkVMGIqTbdYN79ArJDXaknO4AbQg0tdudUn/OWweby4iKv8O\nHRcrdfWqPClvLY/6C7bVrhWFPW1qeWxO89Ecwqk88APdgr+WSRVHo2qiL24ywyfL\nAeHdPh3unQKBgHNcVNPSZrjpAE1MZpLKFyGJtgyWWlFiaJk98jw1AvvcR8YKohjN\nOg05XQjflZ8aWUzO4m7zYmQNI3pK9dHjKz0TdFwL03IzCb9B1SNZh6I93K/Vrag1\nD0Dj4sIQLjghWOSJyVGkFgVGfQWv9nMZCQ7kqbxRXL7+PaEuh9VOrVF9AoGBAIY+\nKIlpm5xpNyxOGG1gmrbnd/Bj5kr49vXkQBdypUWPLpgL6j1rE/mwkf2wAzYIKizm\neKF5VGX31i0YrOX5lfktXXj8brVY/bqKzp08StrjGGjI5GLimOspKOpPQfOaqK0V\nIn42gR3M1/wjtRIKLbjlf8cp+R66K7KMExKdYyAJAoGAOxzxeExntTATl2HK3R+W\nUZOCefvMdb6yj0SR4PH7a8vInEYXWA+b63H1Qw3pvXLSGgOPjXxFE9eeI2zsikdK\n+UZQqX4sgkha7idt8H7zURKFo/sqXbiYW0D5m4qDEE1AAuvYGCf0qvwfcN5b7Zob\n0H0XtIk7cWMtUQlY5O/zNY0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyserver@worapp-8bba7.iam.gserviceaccount.com",
+  "client_id": "102214949407874389899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyserver%40worapp-8bba7.iam.gserviceaccount.com"
+}
